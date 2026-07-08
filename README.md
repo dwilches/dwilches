@@ -6,7 +6,7 @@
    - It has many rules and exceptions, which has made it really entertaining to code. It's definitely not the simplest implementation. Take a look!
    - The main motivation behind this project was learning the newer C++ features. I hadn't used the language since C++14 and a lot has changed since then.
 
-- 🏯 I'm also practicing React by making a Japanese learning game ([風祭り](https://github.com/dwilches/KazeMatsuri)). It's still rough around the edges but already functional on PC.
+- 🏯 I also recently developed a Japanese learning game to improve my React skills: [風祭り (KazeMatsuri)](https://github.com/dwilches/KazeMatsuri). I built it because I wanted a tool to help me memorize kanji readings.
 
 - 🌱 I developed a library called [Ardity](https://github.com/dwilches/Ardity) to bridge the gap between [Arduino](https://www.arduino.cc/) and [Unity3D](https://unity.com).
    - Back in the day, I was a research assistant at a university, building Human-Computer Interaction devices, and I noticed there were no good libraries for easily connecting custom hardware to 3D environments.
